@@ -1,0 +1,16 @@
+{
+  "name": "hackernewsclone",
+  "version": "1.0.0",
+  "description": "\"Hacker news clone for Scrimba\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "author": "Aldana Michelino",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
